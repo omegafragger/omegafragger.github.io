@@ -1,0 +1,26 @@
+# Jishnu Mukhoti
+
+> Head of Technology at Finster AI, leading the company's AI and technology strategy. Previously AI Lead on Finster's founding team, and before that a DPhil (PhD) in Machine Learning at the University of Oxford researching methods to safely scale modern neural networks.
+
+Jishnu builds and leads teams building AI systems for decisions where confidence has to be earned, not assumed — currently applied to AI agents for financial research and analysis at Finster AI (https://finster.ai), deployed at global financial institutions including UBS and inside FactSet's AI for Banking.
+
+## Profile
+
+- [About](https://omegafragger.github.io/#about): Bio, current role, and background
+- [Experience](https://omegafragger.github.io/#experience): Career timeline — Finster AI and prior research roles
+- [CV](https://omegafragger.github.io/files/cv.pdf): Full CV (PDF)
+
+## Publications
+
+- [Fine-tuning can cripple your foundation model; preserving features may be the solution](https://omegafragger.github.io/publication/ldifs_tmlr_2024/): TMLR 2024, Featured Certification
+- [Deep Deterministic Uncertainty: A New Simple Baseline](https://omegafragger.github.io/publication/ddu_cvpr_2023/): CVPR 2023, Highlight
+- [Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning](https://omegafragger.github.io/publication/pacl_cvpr_2023/): CVPR 2023, Highlight
+- [Calibrating Deep Neural Networks using Focal Loss](https://omegafragger.github.io/publication/calibration_neurips_2020/): NeurIPS 2020, Spotlight (ICML 2020 UDL Workshop)
+- [Raising the Bar on the Evaluation of OoD Detection](https://omegafragger.github.io/publication/ood_iccv_2023/): ICCV 2023 OOD-CV Workshop, Oral
+
+## Contact
+
+- Email: jishnumukhoti7@gmail.com
+- GitHub: https://github.com/omegafragger
+- Google Scholar: https://scholar.google.com/citations?user=ebhcf9kAAAAJ&hl
+- Twitter/X: https://twitter.com/JishnuMukhoti
